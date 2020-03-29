@@ -2,8 +2,16 @@ commit1
 commit2
 commit3
 commit4
+<<<<<<< HEAD
 commit5
+<<<<<<< HEAD
 commit6
 commit7
 commit8
 commit9
+=======
+commit6
+>>>>>>> parent of 34d43d9... commit 7
+=======
+commit5
+>>>>>>> parent of 6b95262... commit 6
