@@ -1,10 +1,13 @@
-<<<<<<< HEAD
 commit1
 <<<<<<< HEAD
 commit2
+<<<<<<< HEAD
 commit3
 =======
 >>>>>>> parent of b468836... testfiles
 =======
 commit2
 >>>>>>> parent of a4a9c20... testfiles
+=======
+commit3
+>>>>>>> parent of 7e53021... testfiles1
