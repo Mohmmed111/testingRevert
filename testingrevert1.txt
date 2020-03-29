@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 commit1
 commit2
 commit3
+=======
+>>>>>>> parent of b468836... testfiles
